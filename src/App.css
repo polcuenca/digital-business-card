@@ -1,0 +1,91 @@
+.app{
+  max-width: 249px;
+  max-height: 599px;
+  background-color: #1A1B20;
+  margin-right: auto;
+  font-family: Inter;
+  border-radius: 10px 10px;
+}
+.header{
+  text-align: center;
+}
+.image{
+  width: 249px;
+  border-radius: 10px 10px 0px 0px;
+}
+.name{
+  font-size: 19px;
+  margin: 0;
+  
+}
+.course{
+  font-size: 8px;
+  font-weight: 600;
+  color: #895F58;
+  margin: 0;
+}
+.school{
+    font-size: 6px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.buttons{
+  font-size: 9px;
+  margin-top: 18px;
+}
+
+.btn-email{
+  background-color: white;
+  color: black;
+  width: 84px;
+  height: 27px;
+  margin-right: 20px;
+}
+.btn-email > i {
+  padding-right: 6px;
+}
+.btn-linkedin{
+  background-color: #3096E7; 
+  width: 84px;
+    height: 27px;
+}
+.btn-linkedin>i {
+  padding-right: 6px;
+}
+.content{
+  margin: 17px 30px 25px 30px;
+}
+.about{
+  margin: 0;
+}
+.interest{
+  margin: 0;
+  margin-top: 16px;
+}
+.content > p {
+  font-size: 6px;
+  margin: 0;
+}
+
+.footer{
+  width: 249px;
+  height: 50px;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #16151A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer > a {
+  width: 22px;
+  height: 22px;
+  padding: 15px;
+}
+
+
+body{
+  background-color: #24242E;
+  justify-content: center;
+}
+
